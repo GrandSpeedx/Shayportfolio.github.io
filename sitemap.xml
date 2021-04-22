@@ -1,153 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://shayportfoliasite.nl/assets/emoties-shay.mp4</loc>
-    <lastmod>2017-06-19</lastmod>
+    <loc>http://umiles.com/index.html</loc>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://umiles.com/images/shay%20umiles%20bannner%20update-crop-u144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://umiles.com/images/phone.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://shayportfoliasite.nl/assets/vliegende-pikachu-shay.mp4</loc>
-    <lastmod>2016-10-05</lastmod>
+    <loc>http://umiles.com/gif-bestand.html</loc>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://umiles.com/images/shay%20umiles%20bannner%20update-crop-u402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://umiles.com/images/telefoon-shay.gif</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://shayportfoliasite.nl/assets/knvb-logo-shay.pdf</loc>
-    <lastmod>2015-03-18</lastmod>
+    <loc>http://umiles.com/trailer.html</loc>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://umiles.com/images/shay%20umiles%20bannner%20update-crop-u415.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://shayportfoliasite.nl/assets/shayijsje.pdf</loc>
-    <lastmod>2015-10-08</lastmod>
+    <loc>http://umiles.com/preorder.html</loc>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/assets/krant-shay.pdf</loc>
-    <lastmod>2016-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/collage%20shay.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/raw.gif</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/geplakte%20afbeelding%201034%20x%20540.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/logo%20bedrijf%20.png</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/unknown-1.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/shay_kamer.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/visite%20kaartje%20finalshay.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/shay%20cv.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/spikkels%20posterr.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/unknown-2.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/daniel%20den%20hoed.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/shay%20pet.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/images/shay_kamer2.jpg</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/index.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/hobby-s.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/opdrachten.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/contact.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/mijn-bedrijf.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/daniel-de-hoede=.html</loc>
-    <lastmod>2017-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shayportfoliasite.nl/oude-opdrachten.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://umiles.com/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://umiles.com/images/shay%20umiles%20bannner%20update-crop-u519.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

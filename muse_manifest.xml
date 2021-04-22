@@ -1,58 +1,71 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shayportfoliasite.nl" resolutions="1x" timestamp="1507796083585">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="umiles.com" resolutions="1x" timestamp="1517918162440">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="contact.css" crc="34309741" ref="contact"/>
-    <file name="hobby-s.css" crc="161289727" ref="hobby-s"/>
-    <file name="oude-opdrachten.css" crc="4213653422" ref="oude-opdrachten"/>
-    <file name="opdrachten.css" crc="469777454" ref="opdrachten"/>
-    <file name="mijn-bedrijf.css" crc="503229582" ref="mijn-bedrijf"/>
-    <file name="index.css" crc="367946892" ref="index"/>
-    <file name="daniel-de-hoede_.css" crc="3933455957" ref="daniel-de-hoede="/>
-  </folder>
-  <folder name="assets">
-    <file name="emoties-shay.mp4" crc="4094877454" seo="true" mt="1497855014000"/>
-    <file name="vliegende-pikachu-shay.mp4" crc="4231909124" seo="true" mt="1475661462000"/>
-    <file name="knvb-logo-shay.pdf" crc="4045604503" seo="true" mt="1426679844000"/>
-    <file name="shayijsje.pdf" crc="259617664" seo="true" mt="1444289528000"/>
-    <file name="krant-shay.pdf" crc="279831027" seo="true" mt="1463042544000"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="gif-bestand.css" crc="230480790" ref="gif-bestand"/>
+    <file name="preorder.css" crc="4003688413" ref="preorder"/>
+    <file name="index.css" crc="4043166569" ref="index"/>
+    <file name="trailer.css" crc="411836502" ref="trailer"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:hobby-s:opdrachten:contact:mijn-bedrijf:daniel-de-hoede=:oude-opdrachten"/>
-    <file name="museutils.js" crc="275725342" ref="index:hobby-s:opdrachten:contact:mijn-bedrijf:daniel-de-hoede=:oude-opdrachten"/>
-    <file name="pie.js" crc="3827607177" ref="index:hobby-s:opdrachten:contact:mijn-bedrijf:daniel-de-hoede=:oude-opdrachten"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
-    <file name="webpro.js" crc="3883484123" ref="index:oude-opdrachten"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="index:oude-opdrachten"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="index:oude-opdrachten"/>
-    <file name="touchswipe.js" crc="4218319045" ref="index:oude-opdrachten"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:hobby-s:opdrachten:contact:mijn-bedrijf:daniel-de-hoede=:oude-opdrachten"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gif-bestand:trailer:preorder"/>
+    <file name="museutils.js" crc="3803043152" ref="index:gif-bestand:trailer:preorder"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gif-bestand:trailer:preorder"/>
+    <file name="museconfig.js" crc="380897831" ref="index:gif-bestand:trailer:preorder"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:gif-bestand:trailer:preorder"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:gif-bestand:trailer:preorder"/>
+    <file name="require.js" crc="4157109226" ref="index:gif-bestand:trailer:preorder"/>
   </folder>
   <folder name="images">
-    <file name="rolling_waves_mod-ultra-hd.jpg" crc="274704482" ref="index:hobby-s:opdrachten:contact:mijn-bedrijf:daniel-de-hoede=:oude-opdrachten"/>
-    <file name="u209-4.png" crc="4132909301" ref="index"/>
-    <file name="collage shay.jpg" crc="4270974654" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:oude-opdrachten"/>
-    <file name="shay ptroon jpeg-crop-u345.jpg" crc="8266418" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:oude-opdrachten"/>
-    <file name="raw.gif" crc="150944692" seo="true" ref="hobby-s"/>
-    <file name="geplakte afbeelding 1034 x 540.jpg" crc="3901693831" seo="true" ref="hobby-s"/>
-    <file name="logo bedrijf .png" crc="118674564" seo="true" ref="opdrachten"/>
-    <file name="unknown-1.jpg" crc="3872321589" seo="true" ref="opdrachten"/>
-    <file name="shay_kamer.jpg" crc="75879030" seo="true" ref="opdrachten"/>
-    <file name="visite kaartje finalshay.jpg" crc="18694369" seo="true" ref="contact"/>
-    <file name="shay cv.jpg" crc="3814303877" seo="true" ref="contact"/>
-    <file name="spikkels posterr.jpg" crc="4134188154" seo="true" ref="mijn-bedrijf"/>
-    <file name="bedrijfjne ikraat-u700.png" crc="4020684140" ref="mijn-bedrijf"/>
-    <file name="unknown-2.jpg" crc="428829730" seo="true" ref="daniel-de-hoede="/>
-    <file name="daniel den hoed.jpg" crc="4166553458" seo="true" ref="daniel-de-hoede="/>
-    <file name="shay pet.jpg" crc="44157890" seo="true" ref="oude-opdrachten"/>
-    <file name="shay_kamer2.jpg" crc="4045863552" seo="true" ref="oude-opdrachten"/>
+    <file name="shay umiles bannner update-crop-u144.jpg" crc="3878253103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u303-4-a.png" crc="29220611" ref="index"/>
+    <file name="u325-4.png" crc="4224456085" ref="index"/>
+    <file name="u331-4.png" crc="209712047" ref="index"/>
+    <file name="u457-4.png" crc="3997950950" ref="index"/>
+    <file name="phone.png" crc="4017486640" seo="true" ref="index:preorder">
+      <caption webpage="index" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="u473-4.png" crc="3841171861" ref="index"/>
+    <file name="naamloos-1.jpg" crc="532762153" ref="index:gif-bestand:trailer:preorder">
+      <caption webpage="index" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="gif-bestand" alt=""/>
+      <caption webpage="trailer" alt=""/>
+    </file>
+    <file name="shay umiles bannner update-crop-u402.jpg" crc="3878253103" seo="true" ref="gif-bestand">
+      <caption webpage="gif-bestand" alt=""/>
+    </file>
+    <file name="u404-4.png" crc="29220611" ref="gif-bestand"/>
+    <file name="u400-4-a.png" crc="4224456085" ref="gif-bestand"/>
+    <file name="u401-4.png" crc="209712047" ref="gif-bestand"/>
+    <file name="u454-4.png" crc="242566852" ref="gif-bestand"/>
+    <file name="telefoon-shay.gif" crc="386825802" seo="true" ref="gif-bestand">
+      <caption webpage="gif-bestand" alt=""/>
+    </file>
+    <file name="shay umiles bannner update-crop-u415.jpg" crc="3878253103" seo="true" ref="trailer">
+      <caption webpage="trailer" alt=""/>
+    </file>
+    <file name="u417-4.png" crc="29220611" ref="trailer"/>
+    <file name="u414-4.png" crc="4224456085" ref="trailer"/>
+    <file name="u418-4-a.png" crc="209712047" ref="trailer"/>
+    <file name="u476-4.png" crc="251597770" ref="trailer"/>
+    <file name="shay umiles bannner update-crop-u519.jpg" crc="3878253103" seo="true" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="u523-4.png" crc="29220611" ref="preorder"/>
+    <file name="u515-4.png" crc="4224456085" ref="preorder"/>
+    <file name="u522-4.png" crc="209712047" ref="preorder"/>
+    <file name="u518-6.png" crc="370394102" ref="preorder"/>
+    <file name="u552-6.png" crc="369627967" ref="preorder"/>
+    <file name="u549-6.png" crc="531147230" ref="preorder"/>
+    <file name="u558-4.png" crc="3941143806" ref="preorder"/>
   </folder>
-  <file name="index.html" crc="4293300973" seo="true" mt="1507791788772" redirect="true"/>
-  <file name="hobby-s.html" crc="4278420904" seo="true" mt="1507791636053" redirect="true"/>
-  <file name="opdrachten.html" crc="3982018559" seo="true" mt="1507791484617" redirect="true"/>
-  <file name="contact.html" crc="3930208758" seo="true" mt="1507791913374" redirect="true"/>
-  <file name="mijn-bedrijf.html" crc="3957031879" seo="true" mt="1507795667312" redirect="true"/>
-  <file name="daniel-de-hoede=.html" crc="96238880" seo="true" mt="1507194207649" redirect="true"/>
-  <file name="oude-opdrachten.html" crc="312135466" seo="true" mt="1507795921456" redirect="true"/>
+  <file name="index.html" crc="4139049650" seo="true" mt="1516275432233" redirect="true"/>
+  <file name="gif-bestand.html" crc="3907436055" seo="true" mt="1516274777664" redirect="true"/>
+  <file name="trailer.html" crc="176942474" seo="true" mt="1516274850872" redirect="true"/>
+  <file name="preorder.html" crc="3891186090" seo="true" mt="1516275423696" redirect="true"/>
 </manifest>
