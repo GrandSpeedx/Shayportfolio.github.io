@@ -1,0 +1,373 @@
+.version.mijn_bedrijf /* version checker */
+{
+	color: #00001D;
+	background-color: #FEAC8E;
+}
+
+.html
+{
+	background: #7F7F7F url("../images/rolling_waves_mod-ultra-hd.jpg") no-repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 417.34275053304896px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 10px rgba(127,127,127,0.61),0px 0px 10px rgba(127,127,127,0.61);
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: #BFBFBF;
+	background-color: rgba(127,127,127,0.5);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 20px 62.65724946695104px;
+}
+
+#ppu523
+{
+	width: 0.01px;
+}
+
+#pu523
+{
+	z-index: 5;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	margin-left: 416px;
+}
+
+#u523
+{
+	z-index: 0;
+	width: 110px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F7F;
+	opacity: 0.45;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
+	filter: alpha(opacity=45);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu519-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 10px;
+	padding-top: 9px;
+	z-index: 2;
+	padding-bottom: 12px;
+}
+
+#u519-4
+{
+	z-index: 11;
+	width: 94px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 24px;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu521
+{
+	z-index: 4;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	margin-left: 304px;
+}
+
+#u521
+{
+	z-index: 0;
+	width: 110px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F7F;
+	opacity: 0.46;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=46)";
+	filter: alpha(opacity=46);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu522-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 6px;
+	padding-top: 9px;
+	z-index: 2;
+	padding-bottom: 12px;
+}
+
+#u522-4
+{
+	z-index: 7;
+	width: 102px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 24px;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu549
+{
+	z-index: 2;
+	width: 0.01px;
+	position: relative;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+}
+
+#u549
+{
+	z-index: 0;
+	width: 919px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 8px rgba(255,255,255,0.5),0px 0px 8px rgba(255,255,255,0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: #DCDCDC;
+	background-color: rgba(127,127,127,0.27);
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	-pie-background: rgba(127,127,127,0.27);
+}
+
+#ppu547
+{
+	width: 0.01px;
+	position: relative;
+	left: 192px;
+	padding-top: 37px;
+	z-index: 2;
+	padding-bottom: 38px;
+}
+
+#pu547
+{
+	z-index: 3;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u547
+{
+	z-index: 0;
+	width: 110px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F7F;
+	opacity: 0.45;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
+	filter: alpha(opacity=45);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu524-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 29px;
+	padding-top: 9px;
+	z-index: 2;
+	padding-bottom: 11px;
+}
+
+#u524-4
+{
+	z-index: 15;
+	width: 57px;
+	min-height: 21px;
+	background-color: transparent;
+	line-height: 24px;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu548
+{
+	z-index: 6;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 36px;
+	margin-left: 528px;
+}
+
+#u548
+{
+	z-index: 0;
+	width: 110px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F7F;
+	opacity: 0.45;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
+	filter: alpha(opacity=45);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#u523::before,#u521::before,#u547::before,#u548::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -2px;
+	left: -2px;
+	bottom: -2px;
+	right: -2px;
+	box-shadow: inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+}
+
+#pu520-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 16px;
+	padding-top: 7px;
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u520-4
+{
+	z-index: 19;
+	width: 82px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 24px;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#ppu546-4
+{
+	width: 0.01px;
+	margin-left: 40px;
+	margin-top: 26px;
+}
+
+#pu546-4
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
+#u546-4
+{
+	z-index: 23;
+	width: 345px;
+	min-height: 133px;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 29px;
+	font-size: 24px;
+	font-style: italic;
+	position: relative;
+}
+
+#u706
+{
+	z-index: 29;
+	width: 270px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: transparent;
+	margin-left: 10px;
+	margin-top: 77px;
+	position: relative;
+}
+
+#pu700
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 372px;
+}
+
+#u700
+{
+	z-index: 27;
+	display: block;
+	vertical-align: top;
+	margin-left: 39px;
+	position: relative;
+}
+
+#u742
+{
+	z-index: 31;
+	width: 460px;
+	min-height: 287px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 68px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 962px;
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
